@@ -5,7 +5,7 @@
 
 I'm Deep Raj from India, currently  pursuing my bachelor degree from UPES, Dehradun with specilization as Open Source and Standards. I do testing applications and deploying and building android applications as well as web applications. I really enjoy learning languages and frameworks like Docker, React , Nucleus cloud and Apache. I am pretty good in analysis and  I also enjoy development of website and designing UI/UX in general. 
 
-#Skills and Experience 
+## Skills and Experience 
 * ♨️ JAVA
 * ⚛️ REACT 
 * 👨‍💻 HTML, CSS, JS
@@ -20,7 +20,7 @@ I'm Deep Raj from India, currently  pursuing my bachelor degree from UPES, Dehra
 - ⚡ Fun fact: I m lazy    
 
 ## Examples of Work 
-<img src-="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  width="256" />
+<img src-=""  width="256" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodewithRajDeep)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deep-raj-b48310229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xoxo.shain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/CodewithRajDeep)  
 
