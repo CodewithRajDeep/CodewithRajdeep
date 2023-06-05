@@ -1,6 +1,6 @@
 
-### Deep Raj 
-#### Application Developer and Designer
+### Hi there👋!
+#### Android and Web Development
 ![Android and Web Development ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 I'm Deep Raj from India, currently  pursuing my bachelor degree from UPES, Dehradun with specilization as Open Source and Standards. I do testing applications and deploying and building android applications as well as web applications. I really enjoy learning languages and frameworks like Docker, React , Nucleus cloud and Apache. I am pretty good in analysis and  I also enjoy development of website and designing UI/UX in general. 
@@ -11,7 +11,7 @@ I'm Deep Raj from India, currently  pursuing my bachelor degree from UPES, Dehra
 * 👨‍💻 HTML, CSS, JS
 * 📱 ANDROID
 
-
+## Additional 
 - 🔭 I’m currently working on honing my skills  
 - 🌱 I’m currently learning automation in Linux  
 - 👯 I’m looking to collaborate on development of websites and android applications 
