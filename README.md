@@ -20,9 +20,9 @@ I'm Deep Raj from India, currently  pursuing my bachelor degree from UPES, Dehra
 - ⚡ Fun fact: I m lazy    
 
 ## Examples of Work 
-<img src="https://github.com/CodewithRajDeep/CodewithRajdeep/blob/main/app-development-deepraj.gif.gif"  width="256" /> 
+<img src="https://media.tenor.com/zoVmxJvWaaUAAAAd/app-development-ios-app-development-company.gif" width="256"/> 
 
-<img src="https://github.com/CodewithRajDeep/CodewithRajdeep/blob/main/web%20development.gif" width="256" />
+<img src="https://github.com/CodewithRajDeep/CodewithRajdeep/blob/main/web%20development.gif" width="256"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodewithRajDeep)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deep-raj-b48310229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xoxo.shain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/CodewithRajDeep)  
 
