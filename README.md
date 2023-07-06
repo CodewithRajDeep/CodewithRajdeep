@@ -30,7 +30,7 @@ I'm Deep Raj from India, currently  pursuing my bachelor degree from UPES, Dehra
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodewithRajDeep)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithRajDeep)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithRajDeep&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![DeepRaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodewithRajDeep&show_icons=true&theme=radical)
 
