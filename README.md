@@ -14,6 +14,7 @@ I'm Deep Raj from India, final-year student currently  pursuing my bachelor degr
 # 📊 ![DeepRaj's GitHub stats]:
 ![](https://github-readme-stats.vercel.app/api?username=CodewithRajDeep&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodewithRajDeep&theme=codeSTACKr&hide_border=false)<br/>
+## Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithRajDeep&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
