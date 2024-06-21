@@ -38,13 +38,13 @@ I'm Deep Raj from India, final-year student currently  pursuing my bachelor degr
 
 ## Examples of Work 
 <img src="https://media.tenor.com/zoVmxJvWaaUAAAAd/app-development-ios-app-development-company.gif" width="256"/> 
-React-native framework 
+ ##React-native framework 
 <img  width="256" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F-gmPKlloeeidnb7ZJk5DRTqo46ffY6R6zrQ-TQDvonHZhXS89MmX1ystL0TtzgZcctDKB7FZKXYiV9PDcaFYoYfC88cuGKADk0Kr-vZkrYkZ5re7AsbXkCRkrz7RQOZHVdQugIix8U/s0/compose_preview+%25281%2529.gif"/>
-Vue+Tailwind and React-native 
+ ##Vue+Tailwind and React-native 
 <img  width="256" src="https://reactnative.dev/assets/images/debugging-element-inspector-32d08229496f834721bb5ce30b841876.gif"/>
-Android application using Android Studio
+ ## Android application using Android Studio
 <img  width="256" src="https://reactnavigation.org/assets/blog/using-react-navigation-5-with-paper/final-app.gif"/>
-DaisyUI+TailwindCSS
+ ## DaisyUI+TailwindCSS
 <img width="256" src="https://preview.redd.it/daisyui-integration-in-tailwind-css-forms-tutorial-v0-7fayzpxtwolb1.gif?width=1613&auto=webp&s=22b0d78b0e8132feb2e27d8a4d07d90f51f8963f"/>
 
 
