@@ -1,9 +1,9 @@
 
 ### Hi there👋!
-#### Android and Web Development
+#### Software Engineer || Web and Android application Developer || Designer 
 ![Android and Web Developer ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-I'm Deep Raj from India, currently  pursuing my bachelor degree from Dehradun,India  with specilization as Open Source and Standards. I do love testing applications and deploying and building android applications as well as web applications. I really enjoy learning languages and frameworks like Docker, React , Nucleus. I am pretty good in analysis and  I also enjoy development of website and designing UI/UX in general. 
+I'm Deep Raj from India, final-year student currently  pursuing my bachelor degree from Dehradun,India  with specilization as Open Source and Standards. I love building, brainstorming new ideas and always excited to try new techy stacks,  I do love testing applications and deploying& building android applications as well as web applications. I really enjoy learning languages and frameworks like Docker, React ,Node.js, Npm, Vite, Tailwind, Vue. I am pretty good in analysis and  I also enjoy development of website and designing UI/UX in general. 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4shudjFYzu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xoxo.shain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deep-raj-b48310229/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/deepraj6897/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/anatanoaiwa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/anatanoaiwa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anatanoaiwa) 
@@ -19,7 +19,7 @@ I'm Deep Raj from India, currently  pursuing my bachelor degree from Dehradun,In
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodewithRajDeep&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
@@ -27,12 +27,12 @@ I'm Deep Raj from India, currently  pursuing my bachelor degree from Dehradun,In
 
 
 ## Additional 
-- 🔭 I’m currently working on honing my skills  
-- 🌱 I’m currently learning automation in Linux  
+- 🔭 I’m currently working on learning new skills and DS for my placement prep.    
+- 🌱 I’m currently learning full-stack development.  
 - 👯 I’m looking to collaborate on development of websites and android applications 
-- 🤔 I’m looking for help with development of full responsive clone OTT platform like Netflix, Hotstar.  
-- 💬 Ask me about testing or developing applications  
-- ⚡ Fun fact: I m lazy    
+- 🤔 I’m looking for help with development of full responsive platform like NFT generator, Transaction Manager and leetcode clone.  
+- 💬 Ask me about testing or developing applications or any placement-prepations  helps you need. 
+- ⚡ Fun fact: I m lazy so I find best solution to complete in short time.   
 
 ## Examples of Work 
 <img src="https://media.tenor.com/zoVmxJvWaaUAAAAd/app-development-ios-app-development-company.gif" width="256"/> 
