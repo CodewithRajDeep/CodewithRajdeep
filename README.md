@@ -5,10 +5,6 @@
 
 I'm Deep Raj from India, currently  pursuing my bachelor degree from Dehradun,India  with specilization as Open Source and Standards. I do love testing applications and deploying and building android applications as well as web applications. I really enjoy learning languages and frameworks like Docker, React , Nucleus. I am pretty good in analysis and  I also enjoy development of website and designing UI/UX in general. 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithRajDeep&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4shudjFYzu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xoxo.shain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deep-raj-b48310229/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/deepraj6897/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/anatanoaiwa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/anatanoaiwa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anatanoaiwa) 
 
