@@ -42,7 +42,12 @@ I'm Deep Raj from India, final-year student currently  pursuing my bachelor degr
 <img src="https://cdn.dribbble.com/users/229147/screenshots/1285313/media/06e0507fbc410509e1cfb4a27907c2a9.gif" width="256"/>
 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<a href='https://archiveprogram.github.com/'>
+  <img align="right" alt="coding" width="400" src="https://galaxies.dev/img/tutorials/react-native-shared-element-transition-reanimated-3/shared-elements-react-native.gif">
+<img align="right" alt="code" width="400" src="https://reactnative.dev/assets/images/debugging-element-inspector-32d08229496f834721bb5ce30b841876.gif">
+<img align="right" alt="coder" width="400" src="https://reactnavigation.org/assets/blog/using-react-navigation-5-with-paper/final-app.gif">
+<img align="right" alt="coder" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F-gmPKlloeeidnb7ZJk5DRTqo46ffY6R6zrQ-TQDvonHZhXS89MmX1ystL0TtzgZcctDKB7FZKXYiV9PDcaFYoYfC88cuGKADk0Kr-vZkrYkZ5re7AsbXkCRkrz7RQOZHVdQugIix8U/s0/compose_preview+%25281%2529.gif">
+</a> 
 
 
 ---
