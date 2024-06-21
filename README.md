@@ -38,13 +38,8 @@ I'm Deep Raj from India, final-year student currently  pursuing my bachelor degr
 
 ## Examples of Work 
 <img src="https://media.tenor.com/zoVmxJvWaaUAAAAd/app-development-ios-app-development-company.gif" width="256"/> 
+<img  width="256" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F-gmPKlloeeidnb7ZJk5DRTqo46ffY6R6zrQ-TQDvonHZhXS89MmX1ystL0TtzgZcctDKB7FZKXYiV9PDcaFYoYfC88cuGKADk0Kr-vZkrYkZ5re7AsbXkCRkrz7RQOZHVdQugIix8U/s0/compose_preview+%25281%2529.gif"/>
 
-<img src="https://cdn.dribbble.com/users/229147/screenshots/1285313/media/06e0507fbc410509e1cfb4a27907c2a9.gif" width="256"/>
-
-
-<a href='https://archiveprogram.github.com/'>
-<img align="right" alt="coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F-gmPKlloeeidnb7ZJk5DRTqo46ffY6R6zrQ-TQDvonHZhXS89MmX1ystL0TtzgZcctDKB7FZKXYiV9PDcaFYoYfC88cuGKADk0Kr-vZkrYkZ5re7AsbXkCRkrz7RQOZHVdQugIix8U/s0/compose_preview+%25281%2529.gif">
-</a> 
 
 
 ---
