@@ -6,26 +6,7 @@
 I'm Deep Raj from India, currently  pursuing my bachelor degree from Dehradun,India  with specilization as Open Source and Standards. I do love testing applications and deploying and building android applications as well as web applications. I really enjoy learning languages and frameworks like Docker, React , Nucleus. I am pretty good in analysis and  I also enjoy development of website and designing UI/UX in general. 
 
 
-## Additional 
-- 🔭 I’m currently working on honing my skills  
-- 🌱 I’m currently learning automation in Linux  
-- 👯 I’m looking to collaborate on development of websites and android applications 
-- 🤔 I’m looking for help with development of full responsive clone OTT platform like Netflix, Hotstar.  
-- 💬 Ask me about testing or developing applications  
-- ⚡ Fun fact: I m lazy    
-
-## Examples of Work 
-<img src="https://media.tenor.com/zoVmxJvWaaUAAAAd/app-development-ios-app-development-company.gif" width="256"/> 
-
-<img src="https://cdn.dribbble.com/users/229147/screenshots/1285313/media/06e0507fbc410509e1cfb4a27907c2a9.gif" width="256"/>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodewithRajDeep)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deep-raj-b48310229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xoxo.shain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/CodewithRajDeep)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithRajDeep&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
-
 
 
 ## 🌐 Socials:
@@ -47,6 +28,25 @@ I'm Deep Raj from India, currently  pursuing my bachelor degree from Dehradun,In
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CodewithRajDeep&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+
+## Additional 
+- 🔭 I’m currently working on honing my skills  
+- 🌱 I’m currently learning automation in Linux  
+- 👯 I’m looking to collaborate on development of websites and android applications 
+- 🤔 I’m looking for help with development of full responsive clone OTT platform like Netflix, Hotstar.  
+- 💬 Ask me about testing or developing applications  
+- ⚡ Fun fact: I m lazy    
+
+## Examples of Work 
+<img src="https://media.tenor.com/zoVmxJvWaaUAAAAd/app-development-ios-app-development-company.gif" width="256"/> 
+
+<img src="https://cdn.dribbble.com/users/229147/screenshots/1285313/media/06e0507fbc410509e1cfb4a27907c2a9.gif" width="256"/>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodewithRajDeep)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deep-raj-b48310229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xoxo.shain/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/CodewithRajDeep)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodewithRajDeep&icon=0&color=0)](https://visitcount.itsvg.in)
