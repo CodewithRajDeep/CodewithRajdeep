@@ -46,7 +46,7 @@ I'm Deep Raj from India, final-year student currently  pursuing my bachelor degr
   <img align="right" alt="coding" width="400" src="https://galaxies.dev/img/tutorials/react-native-shared-element-transition-reanimated-3/shared-elements-react-native.gif">
 <img align="right" alt="code" width="400" src="https://reactnative.dev/assets/images/debugging-element-inspector-32d08229496f834721bb5ce30b841876.gif">
 <img align="right" alt="coder" width="400" src="https://reactnavigation.org/assets/blog/using-react-navigation-5-with-paper/final-app.gif">
-<img align="right" alt="coder" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F-gmPKlloeeidnb7ZJk5DRTqo46ffY6R6zrQ-TQDvonHZhXS89MmX1ystL0TtzgZcctDKB7FZKXYiV9PDcaFYoYfC88cuGKADk0Kr-vZkrYkZ5re7AsbXkCRkrz7RQOZHVdQugIix8U/s0/compose_preview+%25281%2529.gif">
+<img align="right" alt="coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F-gmPKlloeeidnb7ZJk5DRTqo46ffY6R6zrQ-TQDvonHZhXS89MmX1ystL0TtzgZcctDKB7FZKXYiV9PDcaFYoYfC88cuGKADk0Kr-vZkrYkZ5re7AsbXkCRkrz7RQOZHVdQugIix8U/s0/compose_preview+%25281%2529.gif">
 </a> 
 
 
