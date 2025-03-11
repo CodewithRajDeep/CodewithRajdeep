@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is  Raj</h2>
 
- https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif
+ <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="main"/>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRajDeep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Deep%20Raj's%20GitHub%20Records" height="150" alt="stats graph"  />
