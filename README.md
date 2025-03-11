@@ -111,4 +111,6 @@
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=CodewithRajDeep&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-### 
+### <div align="center">
+  <img src="https://profile-counter.glitch.me/CodeWithRajDeep/count.svg?"  />
+</div>
