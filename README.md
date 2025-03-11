@@ -2,15 +2,16 @@
 
  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="main"/>
 
+### 🧙‍♂️ MY STATS:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRajDeep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Deep%20Raj's%20GitHub%20Records" height="150" alt="stats graph"  />
 </div>
 
-###
+### 
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+### 📺 SKILLS : 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -72,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
-###
+### 🫂SOCIAL HANDLES: 
 
 <div align="left">
   <a href="https://www.youtube.com/@shainog" target="_blank">
@@ -95,10 +96,19 @@
   </a>
 </div>
 
-###
+### 🏎 CONTRIBUTION GRAPH:
 
 <br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithRajDeep/CodewithRajDeep/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithRajDeep/CodeWithRajDeep/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CodeWithRajDeep/CodeWithRajDeep/output/github-snake.svg" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/CodeWithRajDeep/CodeWithRajDeep/output/snake.svg" alt="Snake animation" />
+### ✍️  Dev Quote: 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-###
+### 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=CodewithRajDeep&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+### 
