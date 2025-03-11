@@ -116,5 +116,4 @@
   <img src="https://profile-counter.glitch.me/CodeWithRajDeep/count.svg?"  />
 </div>
 
-### SONGS : 
-<a href="https://spotify-recently-played-readme.vercel.app/api?user=31hvrxyitckqhfhowe3nrbmy6bo4&unique={true|1|on|yes}" />
+### 
