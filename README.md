@@ -116,4 +116,8 @@
   <img src="https://profile-counter.glitch.me/CodeWithRajDeep/count.svg?"  />
 </div>
 
-### 
+### 📻 SONGS : 
+   <a href="https://github.com/user-attachments/assets/9e3d0243-8570-4e02-a7a7-b4b448cf5faf">
+    <img src="https://us-tuna-sounds-images.voicemod.net/9c03ab20-bf9b-4e65-9ecf-305f885bd246-1732407149303.jpg" alt="▶ Play Music" width="100">
+   </a>
+
