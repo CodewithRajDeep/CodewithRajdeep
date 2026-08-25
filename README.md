@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is  Raj</h2>
 <a href="https://github.com/CodeWithRajDeep">
-  <img width="736" height="1308" alt="profile" src="https://github.com/user-attachments/assets/b872d8b0-574e-499a-adcc-12cef32e103b" />
+  <img width="400" height="360" alt="profile" src="https://github.com/user-attachments/assets/b872d8b0-574e-499a-adcc-12cef32e103b" />
 </a>
 
 https://github.com/user-attachments/assets/71fa4a1b-996c-4666-a770-af9242e41190
