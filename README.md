@@ -1,14 +1,15 @@
+
 <!-- ========================================== -->
-<!-- HERO BANNER                                -->
+<!-- HERO BANNER (FULL WIDTH)                   -->
 <!-- ========================================== -->
 <div align="center">
-  <img width="735" height="386" alt="banner 2" src="https://github.com/user-attachments/assets/1aee273c-360e-4652-8e24-c5381284b49e" />
+  <img width="100%" alt="Hero Banner" src="https://github.com/user-attachments/assets/1aee273c-360e-4652-8e24-c5381284b49e" />
 </div>
 
 <br/>
 
 <!-- ========================================== -->
-<!-- SOCIAL / CONNECT PILLS (MONOCHROME DARK)  -->
+<!-- SOCIAL / CONNECT PILLS (MONOCHROME DARK)   -->
 <!-- ========================================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/deep-raj-online/" target="_blank">
@@ -34,18 +35,18 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- ABOUT ME (SIDE-BY-SIDE INSPIRATION LAYOUT) -->
+<!-- ABOUT ME (SPLIT CARD INSPIRATION)          -->
 <!-- ========================================== -->
 <h3 align="center">✦ Know About Me ✦</h3>
 
-<table align="center" border="0" style="border: none; background: transparent;">
+<table align="center" border="0" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; width: 100%;">
   <tr>
-    <td width="38%" align="center" valign="middle" style="border: none;">
+    <td width="36%" align="center" valign="middle" style="border: none; padding: 15px;">
       <a href="https://github.com/CodeWithRajDeep">
-        <img width="260" alt="profile avatar" style="border-radius: 8px;" src="https://github.com/user-attachments/assets/1bfa7fec-4e32-43db-826e-efdbeb716de2" />
+        <img width="230" alt="profile avatar" style="border-radius: 8px;" src="https://github.com/user-attachments/assets/1bfa7fec-4e32-43db-826e-efdbeb716de2" />
       </a>
     </td>
-    <td width="62%" valign="middle" style="border: none; padding-left: 20px;">
+    <td width="64%" valign="middle" style="border: none; padding: 15px;">
       <h3>Hi 👋! My name is Deep Raj</h3>
       <p>
         Product Engineer & Open Source Enthusiast building resilient distributed backends, microservice architectures, and modern AI platforms.
@@ -66,55 +67,67 @@
 <h3 align="center">✦ Technologies & Skills ✦</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="vuejs" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="32" alt="svelte" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="sass" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="32" alt="materialui" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="32" alt="threejs" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="32" alt="d3js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" alt="redux" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg" height="32" alt="feathersjs" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="32" alt="socketio" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="oracle" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="firebase" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="32" alt="appwrite" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" alt="azure" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="32" alt="selenium" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="32" alt="gulp" />
+  <table border="0" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; width: 100%;">
+    <tr>
+      <td align="center" valign="middle" style="border: none; padding: 18px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="vuejs" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="32" alt="svelte" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="sass" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="32" alt="materialui" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="32" alt="threejs" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="32" alt="d3js" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" alt="redux" />
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg" height="32" alt="feathersjs" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="32" alt="socketio" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="32" alt="oracle" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="firebase" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="32" alt="appwrite" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" alt="azure" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="32" alt="selenium" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="32" alt="gulp" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <!-- ========================================== -->
-<!-- STATS & RECORDS (DARK THEME)               -->
+<!-- STATS & RECORDS                            -->
 <!-- ========================================== -->
 <h3 align="center">✦ Statistics ✦</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRajDeep&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&custom_title=Deep%20Raj's%20GitHub%20Records" height="165" alt="stats graph"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeWithRajDeep&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="165" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRajDeep&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&custom_title=Deep%20Raj's%20Records" height="155" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=CodeWithRajDeep&theme=tokyonight&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="155" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- ========================================== -->
-<!-- CONTRIBUTION GRAPH & SNAKE                 -->
+<!-- CONTRIBUTION ACTIVITY & SNAKE              -->
 <!-- ========================================== -->
-<h3 align="center">✦ Contributions ✦</h3>
+<h3 align="center">✦ Contributions & Activity ✦</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithRajDeep&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=false&border_color=30363d" width="95%" alt="Contribution Graph" />
+</div>
+
+<br/>
 
 <div align="center">
   <picture>
@@ -127,14 +140,17 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- TOP CONTRIBUTIONS & DEV QUOTE              -->
+<!-- TOP CONTRIBUTED REPOSITORIES               -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=CodewithRajDeep&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top repos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRajDeep&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d&hide_border=false" height="145" alt="Top Languages & Repos" />
 </div>
 
 <br/>
 
+<!-- ========================================== -->
+<!-- DEV QUOTE                                  -->
+<!-- ========================================== -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
 </div>
@@ -142,22 +158,24 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- AUDIO PLAYER, MEME & VISITOR COUNTER       -->
+<!-- MEDIA & VISITOR COUNTER                    -->
 <!-- ========================================== -->
 <div align="center">
-  <table border="0" style="border: none; background: transparent;">
+  <table border="0" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; max-width: 500px;">
     <tr>
-      <td align="center" valign="middle" style="border: none; padding: 10px;">
+      <td align="center" valign="middle" style="border: none; padding: 12px;">
         <p><b>📻 FAVORITE TRACK</b></p>
         <a href="https://github.com/user-attachments/assets/9e3d0243-8570-4e02-a7a7-b4b448cf5faf">
-          <img src="https://us-tuna-sounds-images.voicemod.net/9c03ab20-bf9b-4e65-9ecf-305f885bd246-1732407149303.jpg" alt="▶ Play Music" width="100" style="border-radius: 8px;" />
+          <img src="https://us-tuna-sounds-images.voicemod.net/9c03ab20-bf9b-4e65-9ecf-305f885bd246-1732407149303.jpg" alt="▶ Play Music" width="100" style="border-radius: 6px;" />
         </a>
       </td>
-      <td align="center" valign="middle" style="border: none; padding: 10px;">
-        <img height="140" src="https://i.imgflip.com/65efzo.gif" alt="meme" style="border-radius: 8px;" />
+      <td align="center" valign="middle" style="border: none; padding: 12px;">
+        <img height="130" src="https://i.imgflip.com/65efzo.gif" alt="meme" style="border-radius: 6px;" />
       </td>
     </tr>
   </table>
+
   <br/>
-  <img src="https://profile-counter.glitch.me/CodeWithRajDeep/count.svg" alt="visitor count" />
+
+  <img src="https://komarev.com/ghpvc/?username=CodeWithRajDeep&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="visitor count" />
 </div>
