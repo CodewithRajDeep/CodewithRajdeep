@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is  Raj</h2>
-
- <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="main"/>
+<img width="720" height="720" src="https://github.com/user-attachments/assets/13c4776c-6f66-4785-a6f8-6b22007db945" alt="main"/>
 
 ### 🧙‍♂️ MY STATS :
 <div align="left">
