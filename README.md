@@ -1,4 +1,3 @@
-
 <!-- ========================================== -->
 <!-- HERO BANNER (FULL WIDTH)                   -->
 <!-- ========================================== -->
@@ -112,8 +111,9 @@
 <h3 align="center">✦ Statistics ✦</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithRajDeep&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&custom_title=Deep%20Raj's%20Records" height="155" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=CodeWithRajDeep&theme=tokyonight&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" height="155" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=CodeWithRajDeep&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithRajDeep&theme=vision-friendly-dark&hide_border=false" height="155" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -124,7 +124,7 @@
 <h3 align="center">✦ Contributions & Activity ✦</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithRajDeep&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=false&border_color=30363d" width="95%" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=CodeWithRajDeep&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=false&border_color=30363d" width="95%" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -140,15 +140,6 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- TOP CONTRIBUTED REPOSITORIES               -->
-<!-- ========================================== -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithRajDeep&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d&hide_border=false" height="145" alt="Top Languages & Repos" />
-</div>
-
-<br/>
-
-<!-- ========================================== -->
 <!-- DEV QUOTE                                  -->
 <!-- ========================================== -->
 <div align="center">
@@ -158,7 +149,7 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- MEDIA & VISITOR COUNTER                    -->
+<!-- MEDIA / TRACK                              -->
 <!-- ========================================== -->
 <div align="center">
   <table border="0" style="border: 1px solid #30363d; border-radius: 8px; background: #0d1117; max-width: 500px;">
@@ -174,8 +165,4 @@
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=CodeWithRajDeep&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="visitor count" />
 </div>
