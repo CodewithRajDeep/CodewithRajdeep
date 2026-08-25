@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name is  Raj</h2>
 <a href="https://github.com/CodeWithRajDeep">
-  <img src="https://github.com/user-attachments/assets/ac9e71ac-d0cd-4bbe-9bfa-0c9509eeeca9"  alt="Deep Raj Profile" alt="profile pic" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/aa72f41b-5fb2-464e-ba50-1f64b49496ef" width="300" height="300"  alt="Deep Raj Profile" alt="profile pic" />
+</a>
 
 https://github.com/user-attachments/assets/71fa4a1b-996c-4666-a770-af9242e41190
 
