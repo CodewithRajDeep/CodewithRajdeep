@@ -2,7 +2,7 @@
 <!-- HERO BANNER                                -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/71fa4a1b-996c-4666-a770-af9242e41190" width="100%" alt="Header Banner" />
+  <img width="735" height="386" alt="banner 2" src="https://github.com/user-attachments/assets/1aee273c-360e-4652-8e24-c5381284b49e" />
 </div>
 
 <br/>
@@ -42,13 +42,13 @@
   <tr>
     <td width="38%" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/CodeWithRajDeep">
-        <img width="260" alt="profile avatar" style="border-radius: 8px;" src="https://github.com/user-attachments/assets/b872d8b0-574e-499a-adcc-12cef32e103b" />
+        <img width="260" alt="profile avatar" style="border-radius: 8px;" src="https://github.com/user-attachments/assets/1bfa7fec-4e32-43db-826e-efdbeb716de2" />
       </a>
     </td>
     <td width="62%" valign="middle" style="border: none; padding-left: 20px;">
       <h3>Hi 👋! My name is Deep Raj</h3>
       <p>
-        Product Engineer & Open Source Enthusiast building resilient distributed backends, microservice architectures, and modern web platforms.
+        Product Engineer & Open Source Enthusiast building resilient distributed backends, microservice architectures, and modern AI platforms.
       </p>
       <p>
         ⚡ <b>Philosophy:</b> Code with clarity, automate infrastructure, embrace dark minimalism.<br/>
