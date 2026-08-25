@@ -1,5 +1,5 @@
 <!-- ========================================== -->
-<!-- HERO BANNER (FULL WIDTH)                   -->
+<!-- HERO BANNER                  -->
 <!-- ========================================== -->
 <div align="center">
 <img width="100%" alt="Hero Banner" src="https://github.com/user-attachments/assets/1aee273c-360e-4652-8e24-c5381284b49e" />
@@ -213,3 +213,12 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- OUTRO BANNER (FULL WIDTH)                  -->
+<!-- ========================================== -->
+<div align="center">
+<img width="100%" alt="Outro Banner" src="https://github.com/user-attachments/assets/9296f5bf-5c4e-43ab-b098-f6b3c126c57c" />
+</div>
