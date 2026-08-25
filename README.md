@@ -1,5 +1,9 @@
-<h2 align="left">Hi 👋! My name is  Raj</h2>
-<img width="720" height="720" src="https://github.com/user-attachments/assets/13c4776c-6f66-4785-a6f8-6b22007db945" alt="main"/>
+<h2 align="center">Hi 👋! My name is  Raj</h2>
+<a href="https://github.com/CodeWithRajDeep">
+  <img src="https://github.com/user-attachments/assets/ac9e71ac-d0cd-4bbe-9bfa-0c9509eeeca9" width="130" height="130" style="border-radius: 50%;" alt="Deep Raj Profile" alt="profile pic" />
+  </a>
+
+https://github.com/user-attachments/assets/71fa4a1b-996c-4666-a770-af9242e41190
 
 ### 🧙‍♂️ MY STATS :
 <div align="left">
